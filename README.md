@@ -1,3 +1,5 @@
+Project Report:
+
 WEEK 1 We started our project learning with basic python modules-numpy,matplotlib and pandas. These are useful for data extracting and visualizing and analysis.
 
 WEEK 2 We then studied regression and classification, which are techniques for predicting continuous or discrete data. We trained and tested models using these methods. Regression and classification are widely applicable, such as in predicting stock prices and forecasting outcomes based on input features (independent variables).
