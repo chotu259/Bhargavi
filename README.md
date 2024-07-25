@@ -11,5 +11,6 @@ we explored neural networks and recurrent neural networks (RNNs).learnt about LS
 
 WEEK 4 
 We learned about the Librosa module for audio preprocessing, which I found particularly enjoyable. Using Librosa, we could alter the pitch and duration of audio (stretching or compressing time). Additionally, we visualized audio waveforms and spectrograms, and extracted various audio features like zero crosssing rate , mfcc(mei frequency Cepstral Coefficients) which give features(10-20) of signal , spectral centroids. 
+
 WEEK 5 & 6
 We initiated the training and testing of speech files to predict the emotion in speech. During this process, we extracted various features beneficial for speech recognition, such as MFCCs, chroma features, and more. To enhance the training accuracy, we utilized callbacks like EarlyStopping and learning rate monitoring. As a result, we achieved a training accuracy of 87%.
